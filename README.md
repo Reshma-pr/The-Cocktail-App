@@ -1,4 +1,3 @@
-
 #The Cocktail App
 The API used in this app: https://www.thecocktaildb.com/api.php
 Explored about decoding JsonData, Future Builder Lists,Navigation between screens and many other features and also learnt how to wisely use amzing flutter libraries.
